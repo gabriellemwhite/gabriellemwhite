@@ -1,6 +1,6 @@
 <h2> Welcome 👋, I'm Gabrielle White.</h2>
 
-I'm a software developer, specializing in full-stack development, mobile applications, data analytics, and everything in between.
+I'm a software engineer, specializing in full-stack development, mobile applications, data analytics, and everything in between.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
